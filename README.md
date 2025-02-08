@@ -1,4 +1,3 @@
-hi! it's me!
 
 <!--
 **wsdm-ci/wsdm-ci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
