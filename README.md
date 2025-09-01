@@ -1,3 +1,3 @@
 - 🚀 A growing Cloud Engineer.
-- 🌱 Currently learning Cloud Enginnering on https://learntocloud.guide/
+- 🌱 Currently learning Cloud Enginnering on https://learntocloud.guide/ &
 - 👯 Looking to collaborate on interesting DevOps and Cloud projects.
